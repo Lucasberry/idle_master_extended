@@ -121,19 +121,19 @@
     <value>&amp;Acerca de</value>
   </data>
   <data name="badge_didnt_load" xml:space="preserve">
-    <value>La página de insignias no carga, se reintentará en __num__ segundos</value>
+    <value>Sin respuesta del servidor de insignias, se reintentará en __num__ segundos...</value>
   </data>
   <data name="blacklist" xml:space="preserve">
     <value>&amp;Lista Negra</value>
   </data>
   <data name="blacklist_current_game" xml:space="preserve">
-    <value>&amp;Meter el juego actual en Lista Negra</value>
+    <value>&amp;Añadir juego actual a la Lista Negra</value>
   </data>
   <data name="card_drops_remaining" xml:space="preserve">
     <value>cromos restantes</value>
   </data>
   <data name="currently_ingame" xml:space="preserve">
-    <value>Actualmente jugando</value>
+    <value>Actualmente ejecutando</value>
   </data>
   <data name="exit" xml:space="preserve">
     <value>&amp;Cerrar</value>
@@ -154,7 +154,7 @@
     <value>Horas</value>
   </data>
   <data name="hrs_on_record" xml:space="preserve">
-    <value>horas registradas</value>
+    <value>horas jugadas</value>
   </data>
   <data name="idle_master_connected" xml:space="preserve">
     <value>Idle Master está conectado a Steam</value>
@@ -178,7 +178,7 @@
     <value>Nombre</value>
   </data>
   <data name="next_check" xml:space="preserve">
-    <value>Próxima comprobación</value>
+    <value>Próximo chequeo</value>
   </data>
   <data name="not_ingame" xml:space="preserve">
     <value>Actualmente en ningún juego</value>
@@ -205,13 +205,13 @@
     <value>&amp;Configuración</value>
   </data>
   <data name="signed_in_as" xml:space="preserve">
-    <value>Identificado como</value>
+    <value>Registrado como</value>
   </data>
   <data name="sign_in" xml:space="preserve">
-    <value>Inicio de sesión</value>
+    <value>Iniciar sesión</value>
   </data>
   <data name="sign_out" xml:space="preserve">
-    <value>Desconectar</value>
+    <value>Cerrar sesión</value>
   </data>
   <data name="skip_current_game" xml:space="preserve">
     <value>&amp;Saltar el juego actual</value>
@@ -233,6 +233,9 @@
   </data>
   <data name="update_games_status" xml:space="preserve">
     <value>Actualizar el estado de los juegos</value>
+    </data>
+  <data name="whitelist" xml:space="preserve">
+    <value>Lista blanca</value>
   </data>
   <data name="accept" xml:space="preserve">
     <value>&amp;Aceptar</value>
@@ -257,17 +260,17 @@
 
 [WARNING]
 No compartas esta información con nadie,
-ya que podría ser usada por un atacante para iniciar sesión en
+ya que podría ser usada por un tercero para iniciar sesión en
 tu cuenta de Steam.</value>
   </data>
   <data name="general" xml:space="preserve">
     <value>General</value>
   </data>
   <data name="idle_individual" xml:space="preserve">
-    <value>Idlear cada juego individualmente</value>
+    <value>Idlear juegos individualmente</value>
   </data>
   <data name="idle_master_settings" xml:space="preserve">
-    <value>Configuración de Idle Master</value>
+    <value>Ajustes de Idle Master</value>
   </data>
   <data name="idle_simultaneous" xml:space="preserve">
     <value>Idlea juegos simultáneamente hasta alcanzar las primeras 2 horas, luego continua individualmente</value>
